@@ -2,6 +2,7 @@
 #'
 #' @export scale_fill_csafe
 #' @export scale_fill_malisha
+#' @importFrom ggplot2 scale_fill_manual
 #' @author Sam Tyner
 #' @examples
 #' scale_fill_csafe(theme="primary")

@@ -4,11 +4,11 @@
 \alias{theme_csafe}
 \title{CSAFE themes for ggplot2}
 \usage{
-theme_csafe(theme = "primary", csafe_key = list(primary = list(family_title
-  = "Montserrat Bold", family_text = "Montserrat Light", colour_title =
-  "#003A70", colour_text = "#8A8A8D"), secondary = list(family_title =
-  "Montserrat Bold", family_text = "Montserrat Light", colour_title = "#9F1B96",
-  colour_text = "#555759")))
+theme_csafe(theme = "primary", csafe_key = list(primary =
+  list(family_title = "Montserrat Bold", family_text = "Montserrat Light",
+  colour_title = "#003A70", colour_text = "#8A8A8D"), secondary =
+  list(family_title = "Montserrat Bold", family_text = "Montserrat Light",
+  colour_title = "#9F1B96", colour_text = "#555759")))
 }
 \description{
 csafe theme
